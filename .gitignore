@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment — NEVER commit your private key
+.env
+backend/.env
+
+# Leaderboard data (auto-generated)
+backend/leaderboard.json
+leaderboard.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
