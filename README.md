@@ -2,8 +2,10 @@
 
 A fully on-chain multiplayer trivia game built on [GenLayer](https://genlayer.com), where players decide if statements are **TRUE** or a **TWIST** (misleading/false).
 
-**Live Demo:** [your-app.vercel.app](https://your-app.vercel.app) ← update after deploy  
-**Contract (v3):** [`0x68850c902d8193fa29419e3a3a043054d416CA08`](https://studio.genlayer.com) on GenLayer Studionet
+**Live Demo:** [truth-or-twist.netlify.app](https://truth-or-twist.netlify.app)  
+**Backend:** [truth-or-twist-production.up.railway.app](https://truth-or-twist-production.up.railway.app/health)  
+**Contract (v3):** [`0x68850c902d8193fa29419e3a3a043054d416CA08`](https://studio.genlayer.com) on GenLayer Studionet  
+**GitHub:** [github.com/Investorquab/truth-or-twist](https://github.com/Investorquab/truth-or-twist)
 
 ---
 
