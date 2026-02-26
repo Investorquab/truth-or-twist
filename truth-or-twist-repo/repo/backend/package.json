@@ -1,0 +1,18 @@
+{
+  "name": "truth-or-twist-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Truth or Twist — GenLayer multiplayer trivia game",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "genlayer-js": "latest",
+    "socket.io": "^4.7.2"
+  }
+}
